@@ -1,0 +1,5 @@
+Types:-
+1) Single ::::::: A --> B
+2) Multilevel ::::::: A -- > B --> C
+3) Hierarchal ::::::: B <-- A --> C
+4) Multiple ::::::: Is not supported in Java
